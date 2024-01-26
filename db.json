@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "abe8",
+      "text": "Learn Php",
+      "day": "December 20th at 5pm",
+      "reminder": true
+    },
+    {
+      "id": "bad0",
+      "text": "Learn SQL",
+      "day": "December 25th at 5pm",
+      "reminder": true
+    },
+    {
+      "id": "372c",
+      "text": "Learn Javascript",
+      "day": "January 10th at 5pm",
+      "reminder": true
+    },
+    {
+      "id": "877c",
+      "text": "Learn Vue",
+      "day": "January 31st at 5pm",
+      "reminder": false
+    },
+    {
+      "id": "8a6a",
+      "text": "Learn Laravel",
+      "day": "February 15th at 5pm",
+      "reminder": false
+    }
+  ]
+}
